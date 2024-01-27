@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header_menu, nav, li > a{
+    text-decoration: none;
+}
+nav > ul > li{
+    display: inline;
+    margin-right: 15px;
+}
