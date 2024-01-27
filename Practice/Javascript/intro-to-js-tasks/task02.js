@@ -20,7 +20,7 @@ var biology = 65;
 var chemistry = 80;
 var physics = 35.45;
 var bangla = 99.50;
-var numberOfSubjects = 5
+var numberOfSubjects = 5;
 
 var totalMarks = (mathematics + biology + chemistry + physics + bangla);
 
