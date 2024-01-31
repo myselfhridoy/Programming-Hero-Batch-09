@@ -9,7 +9,7 @@ Instructions:
 */
 
 const roll = [1, 2, 3];
-const name = ['Farjan', 'Rupa', 'Mim'];
+const name = ['Farjana', 'Rupa', 'Mim'];
 const flower = {Favourite:'kathgolap', Choose: 'rose'}
 const year = 2014;
 const destination = "Journey of Resilience";
